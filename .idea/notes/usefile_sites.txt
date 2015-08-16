@@ -1,0 +1,13 @@
+Sites to look at for future use (maybe)
+
+Video series on basic Android Studio game development
+    https://www.youtube.com/playlist?list=PLWweaDaGRHjvQlpLV0yZDmRKVBdy6rSlg
+
+Music creator
+    https://lmms.io/
+
+Model creator
+    https://www.blender.org/
+
+Paint program
+    http://www.getpaint.net/index.html
